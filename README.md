@@ -27,10 +27,14 @@ To get started with this project, follow these steps:
    cd the-tech-writer
 
 3. **Open the Website:**
+```bash
+
 
 Open index.html in your web browser to view the homepage.
 You can also navigate to other HTML files to view different pages of the site.
 Usage
+
+
 HTML Files: These files are the main structure of the website. Customize them to fit your content and style.
 CSS Files: Modify these files to change the look and feel of the site.
 JavaScript Files: Update these files to add or modify site functionality.
