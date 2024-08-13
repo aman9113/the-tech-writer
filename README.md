@@ -28,8 +28,6 @@ To get started with this project, follow these steps:
 
 3. **Open the Website:**
 
-
-**Happy coding!** 🚀🚀🚀
    
 
 
