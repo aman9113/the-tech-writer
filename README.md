@@ -27,6 +27,10 @@ To get started with this project, follow these steps:
    cd the-tech-writer
 
 3. **Open the Website:**
-```bash
+
+
+**Happy coding!** 🚀🚀🚀
+   
+
 
 
