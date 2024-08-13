@@ -25,7 +25,8 @@ To get started with this project, follow these steps:
 2. **Navigate to the Project Directory:**
 ```bash
    cd the-tech-writer
-3.Open the Website:
+
+3. **Open the Website:**
 
 Open index.html in your web browser to view the homepage.
 You can also navigate to other HTML files to view different pages of the site.
@@ -38,16 +39,16 @@ Images and Videos: Add or replace media files in the img and video folders respe
 Contributing
 If you would like to contribute to this project, please follow these guidelines:
 
-Fork the repository.
+**Fork the repository.**
 Create a new branch for your changes.
 Make your modifications and commit them with clear messages.
 Push your changes to your fork.
 Submit a pull request to the main repository.
-License
+**License**
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
+**Contact**
 For any questions or suggestions, please open an issue on the GitHub repository or contact the repository owner directly.
 
-Happy coding! 🚀🚀🚀
+**Happy coding!** 🚀🚀🚀
    
