@@ -30,7 +30,7 @@ To get started with this project, follow these steps:
 ```bash
 
 
-//
+##
 You can open index.html in your web browser to view the homepage.
 You can also navigate to other HTML files to view different site pages.
 Usage
