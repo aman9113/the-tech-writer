@@ -1,4 +1,4 @@
-# The Tech Writer # The Tech Writer
+# The Tech Writer
 
 Welcome to The Tech Writer(Blogging Website)! This project is a collection of resources and files for a tech blog or website. Here’s a brief overview of what you’ll find in this repository:
 
