@@ -26,7 +26,7 @@ To get started with this project, follow these steps:
 ```bash
    cd the-tech-writer
 
-3. **Open the Website:**
+
 
    
 
